@@ -1,7 +1,7 @@
 # Logic-Based Solution to the Potter Family Puzzle
 
 ## Project Overview
-    This project is a solution to a simplified version of the Zebra Puzzle, involving logical reasoning about the Potter family. The solution applies Propositional Logic and First-Order Logic (FOL) techniques to represent the facts, rules, and queries related to their hobbies, favorite desserts, and dreams. The program answers questions about the family using Python and inference algorithms from the AIMA Python library.
+This project is a solution to a simplified version of the Zebra Puzzle, involving logical reasoning about the Potter family. The solution applies Propositional Logic and First-Order Logic (FOL) techniques to represent the facts, rules, and queries related to their hobbies, favorite desserts, and dreams. The program answers questions about the family using Python and inference algorithms from the AIMA Python library.
 
 ## Problem Description
     The puzzle introduces the Potter family and their relative Aunt Polly. Each family member has unique hobbies, dessert preferences, and aspirations. The solution needs to:
